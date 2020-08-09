@@ -1,4 +1,4 @@
-# Iceberg-Classifier-Challenge [REFERENCE]
+# Iceberg-Classifier-Challenge
 
 Drifting icebergs present threats to navigation and activities in areas such as offshore of the East Coast of Canada.
 
